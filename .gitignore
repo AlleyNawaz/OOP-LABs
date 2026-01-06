@@ -1,0 +1,66 @@
+# Compiled class files (Java)
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled C++ files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.so
+*.dylib
+*.dll
+
+# C# / .NET
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.pdb
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build directories
+build/
+dist/
+out/
+target/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
